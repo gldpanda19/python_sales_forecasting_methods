@@ -20,3 +20,4 @@ Predict the number of monthly product sales using regressive and time-series mod
 ## Data Source: 
 https://www.kaggle.com/c/demand-forecasting-kernels-only/data
 
+Credits: Model architecture adapted from Molly Liebeskind
