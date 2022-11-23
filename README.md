@@ -1,4 +1,4 @@
-Machine Learning Techniques for Forecasting Sales 
+# Machine Learning Techniques for Forecasting Sales 
 
 ## Objective: 
 Predict the number of monthly product sales using regressive and time-series modeling techniques
